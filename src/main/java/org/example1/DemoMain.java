@@ -47,7 +47,7 @@ public class DemoMain {
         System.out.print("Enter your gender: ");
         user.setGender(scanner.nextLine());
 
-        System.out.print("Enter your location: ");
+        System.out.print("Enter your location: ");//enter you location
         user.setLocation(scanner.nextLine());
 
         System.out.print("Enter your phone number: ");
