@@ -189,7 +189,7 @@ public class DemoMain {
         System.out.println("Pay Bill option selected.");
         // Implementation for paying bill
     }
-
+//main method starts
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String directoryPath = "C:\\Users\\hareesh hari\\Desktop\\myProjectK";
